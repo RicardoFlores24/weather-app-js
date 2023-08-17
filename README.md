@@ -24,3 +24,9 @@ A simple web application to check weather information for a specific city. The a
 
 - OpenWeatherMap API
 
+
+![image](https://github.com/RicardoFlores24/weather-app-js/assets/91101893/5e93706e-792f-43b4-b553-8868ab3b5b78)
+
+![image](https://github.com/RicardoFlores24/weather-app-js/assets/91101893/e895ef33-be75-4666-aa2d-55a396331464)
+
+
